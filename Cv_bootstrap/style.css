@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Spirax", cursive;
+  src: url("/home/nella/Bureau/Exercice/HTML/Projet/Projet_cv/Polices_cv/Spirax/Spirax-Regular.ttf");
+}
+@font-face {
+  font-family: "Gupter", serif;
+  src: url("/home/nella/Bureau/Exercice/HTML/Projet/Projet_cv/Polices_cv/Gupter/Gupter-Regular.ttf");
+}
+h3 {
+  font-family: "Spirax", cursive;
+}
+
+/*# sourceMappingURL=style.css.map */
